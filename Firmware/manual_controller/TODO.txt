@@ -1,0 +1,15 @@
+OK - 1 automático (switch)
+OK - 1 parada de emergência
+
+4 turn overs (duplo)
+1 velocidade  (3D printed - potenciometro)
+1 buzina (momentâneo)
+
+1 seletor de trêm (seletor circular)
+1 iluminação publica (fixo)
+1 farol (fixo)
+
+--------------------------
+
+cortar parafuso para a tampa
+organizar repositorio (colocar no GIT)
